@@ -5,3 +5,4 @@ joblib
 pyngrok
 pandas
 flask-cors
+gunicorn
